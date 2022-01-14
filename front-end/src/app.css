@@ -1,0 +1,16 @@
+.notFound {
+    width: 700px;
+    height: 500px;
+    object-fit: contain;
+}
+
+.card-image {
+    width: 75px;
+    height: 75px;
+    object-fit: contain;
+    position: center;
+}
+
+.custom-card {
+    width: 25rem;
+}
